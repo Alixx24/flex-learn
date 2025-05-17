@@ -160,5 +160,18 @@ justify-content: space-between;
 
 }
 
+.contact{
+  display:flex;
+  justify-content:space-between;
+}
 
+.fsf{
+    flex:1 1 auto;
+    align-self:flex-start;
+    flex:1 1 auto;
+}
+
+.fle{
+    flex:0 0 50%;
+}
 
